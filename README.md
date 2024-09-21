@@ -17,7 +17,7 @@ Future release will include the chemistry module.
 
 ## Usage
 * To compile: gcc epacris.c and to run ./a.out
-* Parameter files are typically planet_*.h. Each main_*.c will include one planet_*.h file.
+* Parameter files are typically planet_.h. Each main_.c will include one planet_.h file.
 
 ## Acknowledgement
 The research was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004).
