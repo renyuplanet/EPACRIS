@@ -15,6 +15,10 @@ Future release will include the chemistry module.
 * [Renyu Hu](https://renyuplanet.github.io/) (Jet Propulsion Laboratory, California Institute of Technology)
 * Markus Scheucher (Jet Propulsion Laboratory, California Institute of Technology)
 
+## Usage
+* To compile: gcc epacris.c and to run ./a.out
+* Parameter files are typically planet_*.h. Each main_*.c will include one planet_*.h file.
+
 ## Acknowledgement
 The research was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004).
 
